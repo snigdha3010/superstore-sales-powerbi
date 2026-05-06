@@ -41,14 +41,6 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## Dashboard Preview
-
-![Overview](Images/overview.png)
-![Sales Trend](Images/sales_trend.png)
-![Category Analysis](Images/category.png)
-
----
-
 ## Key Insights
 
 * A small percentage of products contribute to the majority of revenue
