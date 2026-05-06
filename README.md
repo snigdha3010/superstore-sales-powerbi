@@ -88,10 +88,8 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 ## Repository Structure
 
 * Dashboard (.pbix file)
-* Dataset (if included)
 * Dashboard screenshots
 * README documentation
-
 ---
 
 ## How to Use
