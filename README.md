@@ -1,15 +1,15 @@
 # superstore-sales-powerbi
 Power BI dashboard analyzing sales
-# 📊 Superstore Sales Dashboard (Power BI)
+# Superstore Sales Dashboard (Power BI)
 
-## 🔍 Project Overview
+## Project Overview
 
 This project presents an interactive **Sales Performance Dashboard** built in Power BI using the Superstore dataset.
 The dashboard focuses on analyzing sales trends, profitability, and regional performance to derive actionable business insights.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall sales and profit performance
 * Identify top-performing products and regions
@@ -18,7 +18,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 * Source: Superstore Dataset
 * Data includes:
@@ -30,18 +30,18 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-* 📈 **Sales & Profit Overview** (KPI Cards)
-* 🌍 **Regional Analysis** (Sales & Profit by Region)
-* 📦 **Category & Sub-category Insights**
-* 📅 **Time Series Analysis** (Monthly/Yearly Trends)
-* 🎯 **Top & Bottom Performing Products**
-* 🔎 Interactive filters (Region, Category, Date)
+* **Sales & Profit Overview** (KPI Cards)
+* **Regional Analysis** (Sales & Profit by Region)
+* **Category & Sub-category Insights**
+* **Time Series Analysis** (Monthly/Yearly Trends)
+* **Top & Bottom Performing Products**
+* Interactive filters (Region, Category, Date)
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Overview](Images/overview.png)
 ![Sales Trend](Images/sales_trend.png)
@@ -49,7 +49,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 * A small percentage of products contribute to the majority of revenue
 * Certain sub-categories generate high sales but low or negative profit
@@ -58,7 +58,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 📌 Business Recommendations
+## Business Recommendations
 
 * Focus on high-profit product categories to maximize margins
 * Re-evaluate pricing/discount strategy for loss-making products
@@ -67,7 +67,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 
 * Power BI
 * Power Query (Data Cleaning & Transformation)
@@ -76,7 +76,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 * Clean and interactive dashboard design
 * Business-focused insights, not just visuals
@@ -85,7 +85,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 * Dashboard (.pbix file)
 * Dataset (if included)
@@ -94,7 +94,7 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 🔗 How to Use
+## How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
@@ -102,6 +102,6 @@ The dashboard focuses on analyzing sales trends, profitability, and regional per
 
 ---
 
-## 📢 Connect with Me
+## Connect with Me
 
 Feel free to connect or share feedback on this project!
